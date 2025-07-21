@@ -1,3 +1,41 @@
+<h1 align="left">About Me</h1>
+
+###
+
+<h5 align="left">Hello! I'm Luiz Henrique<br><br>At 29, I'm making a full career transition into Computer Science. My professional journey began in Gastronomy, where I developed discipline and creativity, skills I'm now enthusiastically applying to my new field.<br><br>I'm constantly seeking new knowledge and technologies to grow as a professional. Open to new connections and learning opportunities!</h5>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luiz-henrique-silva-silva29/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -7,5 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luizbear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizbear&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Luizbear/Luizbear/output/snake.svg" alt="Snake animation" />
 
 ###
